@@ -11,7 +11,7 @@
 # Ornith-1.0
 
 
-Aloha! 🌺 Ornith-1.0 is a self-improving open-source models for agentic coding. 
+Aloha! 🌺 Ornith-1.0 is a self-improving open-source model for agentic coding. 
 
 Highlights: 
 
