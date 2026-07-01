@@ -1,0 +1,8 @@
+stuck in tool loops quite often.
+Status: Open.
+#4 In deepreinforce-ai/Ornith-1;· f1-outsourcing opened 2d ago
+3 comments
+
+Can you provide more informing and possibly an example of the "task harness"/"scaffold" mentioned in your training pipeline. I am having trouble wrapping my mind around if this is referring to the model's planning phase or if this referred to the tools available to the agent and how the agent will be scored.
+Status: Open.
+#3 In deepreinforce-ai/Ornith-1;· aaronrsiphone opened 3d ago
